@@ -1,0 +1,45 @@
+{
+  "planner": {
+    "example": {
+      "schedule": [],
+      "plan": []
+    },
+    "planlist": {
+      "20220901": {
+        "date": "20220901",
+        "subject": {
+          "수학": {
+            "plan": [
+              {
+                "subject": "수학",
+                "content": "ㅇㅇ하기",
+                "type": "timer",
+                "state": "none",
+                "id": 0
+              }
+            ],
+            "time": 0
+          }
+        },
+        "schedule": {
+          "timeblock": [
+            {
+              "start": 0,
+              "finish": 10,
+              "plan": [
+                {
+                  "id": 0
+                }
+              ]
+            }
+          ]
+        },
+        "daily": {
+          "subject": {
+            "0": []
+          }
+        }
+      }
+    }
+  }
+}
